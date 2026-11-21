@@ -4,12 +4,7 @@ An interactive **Data Analytics** web application built with **Python**, **SQL**
 
 The dashboard helps businesses understand sales performance, customer purchasing behaviour, product performance, revenue trends, and business growth through interactive visualisations and data-driven insights.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?logo=plotly)
-![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey?logo=sqlite)
-
+**Technologies:** Python | Streamlit | Pandas | Plotly | SQLite
 ---
 
 ## 🚀 Features
